@@ -7,7 +7,8 @@ A series of timed stress tests for IF vs Switch statements accomplishing the sam
 Timed using System.nanoTime();
 
 # Hypothesis
-Switch is faster
+Switch is faster.
+
 They (you know, they) say that up to 5 cases the switch will use a look up hash table and that the IF statement is slower.
 
 ## Observations
