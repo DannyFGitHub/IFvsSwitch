@@ -8,9 +8,7 @@ Timed using System.nanoTime();
 
 # Hypothesis
 Switch is faster
-
-### Tests
-They say up to 5 cases the switch will use a look up hash table and that the IF statement is slower.
+They (you know, they) say that up to 5 cases the switch will use a look up hash table and that the IF statement is slower.
 
 ## Observations
 The IF statement may win more number of times sometimes, however, if we take a look at the accumulation of time elapsed
